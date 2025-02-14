@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="svg4306"
-   width="38"
-   height="30"
+   width="50"
+   height="200"
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="close.svg"
@@ -28,8 +28,8 @@
   <defs
      id="defs29" />
   <sodipodi:namedview
-     pagecolor="#303030"
-     bordercolor="#666666"
+     pagecolor="#000000"
+     bordercolor="#ffffff"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -40,9 +40,9 @@
      inkscape:window-height="1122"
      id="namedview27"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="22.978813"
-     inkscape:cy="25.262711"
+     inkscape:zoom="5.3636365"
+     inkscape:cx="21.440677"
+     inkscape:cy="61.338981"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +52,8 @@
      inkscape:snap-nodes="false"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#303030">
+     inkscape:deskcolor="#303030"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid892"
@@ -65,7 +66,7 @@
   <g
      style="opacity:0.35"
      id="inactive-center"
-     transform="matrix(3.7795,0,0,3.7795,-164.99785,-613.51423)">
+     transform="matrix(3.7795,0,0,3.7795,-164.99785,-493.51423)">
     <rect
        x="43.655998"
        y="141.16"
@@ -82,7 +83,7 @@
   </g>
   <g
      id="active-center"
-     transform="matrix(3.7795,0,0,3.7795,-164.99785,-572.51423)"
+     transform="matrix(3.7795,0,0,3.7795,-164.99785,-453.51444)"
      style="opacity:1">
     <rect
        x="43.655998"
@@ -95,12 +96,12 @@
     <path
        inkscape:connector-curvature="0"
        d="m 48.512309,143.71254 -0.18707,0.18706 1.2294,1.2294 -1.2294,1.2289 0.18707,0.18707 1.2294,-1.2289 1.2289,1.2289 0.18707,-0.18707 -1.2289,-1.2289 1.2289,-1.2294 -0.18707,-0.18706 -1.2289,1.2294 z"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers;opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path978" />
   </g>
   <g
      id="hover-center"
-     transform="matrix(3.7795,0,0,3.7795,-164.99785,-533.51423)">
+     transform="matrix(3.7795,0,0,3.7795,-164.99785,-413.51423)">
     <rect
        x="43.655998"
        y="141.16"
@@ -117,7 +118,7 @@
   </g>
   <g
      id="pressed-center"
-     transform="matrix(3.7795,0,0,3.7795,-164.99785,-493.51423)">
+     transform="matrix(3.7795,0,0,3.7795,-164.49784,-373.51423)">
     <rect
        x="43.523705"
        y="141.16"
@@ -133,7 +134,7 @@
        id="path1018" />
   </g>
   <g
-     transform="matrix(3.7795,0,0,3.7795,-164.99785,-652.51402)"
+     transform="matrix(3.7795,0,0,3.7795,-164.99785,-533.51423)"
      id="deactivated-center"
      style="opacity:0.35">
     <rect
