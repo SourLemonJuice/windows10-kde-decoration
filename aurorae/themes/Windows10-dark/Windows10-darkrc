@@ -2,7 +2,10 @@
 ActiveTextColor=255,255,255,255
 InactiveTextColor=255,255,255,153
 
-Animation=150
+; the animation may show what's behind it when it fades.
+; but, if you want 150ms is the value used by Windows10 buttons
+; Animation=150
+Animation=0
 Shadow=true
 TextShadowOffsetX=0
 TextShadowOffsetY=0
