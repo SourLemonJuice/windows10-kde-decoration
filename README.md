@@ -18,3 +18,5 @@ Sorry, but I'm really not familiar with Qt.
 ## License
 
 All content published under **GNU General Public License v3 or later**.
+
+Copyright (C) 2025 酸柠檬猹/SourLemonJuice
