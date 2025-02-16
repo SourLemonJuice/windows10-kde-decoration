@@ -1,5 +1,20 @@
 # Windows10 KDE Plasma decoration
 
+This is a very Windows 10 like decoration for KDE Plasma.\
+It's just a recreate, not including personalized changes(unless icon doesn't exist).
+
+I really want to see more UI with right angles, but in these years people have grown to dislike it.\
+Adobe, Windows 11, Microsoft, webpages, VSCode, many hardwares, even the KDE Plasma 6. All over the computer.
+
+People may just think it's a fad. But I have what I love. High contrast, 0x000000 base color, that means technology.\
+Alas... That may have been overstated. But what the world needs is artful UI.
+
+## Preview
+
+![preview](./assets/preview_dark.jpg)
+
+Windows 10 VM -> inactive -> active
+
 ## Install
 
 In the repository root, and run `./install.sh`. It will install this decoration for that user self.
