@@ -54,12 +54,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1122"
+     inkscape:window-height="1123"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-32.173359"
-     inkscape:cy="101.11627"
+     inkscape:zoom="11.313708"
+     inkscape:cx="22.627418"
+     inkscape:cy="86.04606"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -90,7 +90,7 @@
        id="rect1011" />
     <path
        inkscape:connector-curvature="0"
-       d="m 31.485561,143.81 v 2.6458 h 2.6458 V 143.81 Z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
+       d="m 31.485561,143.80585 v 2.6458 h 2.6458 v -2.6458 z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
        style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path1013" />
   </g>
@@ -107,7 +107,7 @@
        id="rect991" />
     <path
        inkscape:connector-curvature="0"
-       d="m 31.485561,143.81 v 2.6458 h 2.6458 V 143.81 Z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
+       d="m 31.485561,143.80585 v 2.6458 h 2.6458 v -2.6458 z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
        style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path993" />
   </g>
@@ -121,11 +121,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        id="rect971" />
     <path
        inkscape:connector-curvature="0"
-       d="m 31.485561,143.81 v 2.6458 h 2.6458 V 143.81 Z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
+       d="m 31.485561,143.80585 v 2.6458 h 2.6458 v -2.6458 z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
        style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path973" />
   </g>
@@ -135,7 +135,7 @@
      style="opacity:0.35">
     <rect
        id="rect878"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        ry="3.7990001e-06"
        height="7.9375"
        width="12.170922"
@@ -157,11 +157,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none;fill-opacity:1"
        id="rect951" />
     <path
        inkscape:connector-curvature="0"
-       d="m 31.485561,143.81 v 2.6458 h 2.6458 V 143.81 Z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
+       d="m 31.485561,143.80585 v 2.6458 h 2.6458 v -2.6458 z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
        style="opacity:1;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path953" />
   </g>

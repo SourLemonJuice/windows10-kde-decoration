@@ -63,7 +63,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1122"
+     inkscape:window-height="1124"
      id="namedview22"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -71,7 +71,7 @@
      inkscape:snap-nodes="false"
      inkscape:zoom="2.6818182"
      inkscape:cx="13.050847"
-     inkscape:cy="81.288135"
+     inkscape:cy="80.915254"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -102,7 +102,7 @@
        id="rect1006" />
     <rect
        x="15.345561"
-       y="145.13"
+       y="144.99646"
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
@@ -122,7 +122,7 @@
        id="rect986" />
     <rect
        x="15.345561"
-       y="145.13"
+       y="144.99646"
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
@@ -139,11 +139,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        id="rect966" />
     <rect
        x="15.345561"
-       y="145.13"
+       y="144.99646"
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
@@ -156,7 +156,7 @@
      style="opacity:0.35">
     <rect
        id="rect878"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        ry="3.7990001e-06"
        height="7.9375"
        width="12.170922"
@@ -168,7 +168,7 @@
        ry="3.1658001e-06"
        height="0.26458001"
        width="2.6458001"
-       y="145.13"
+       y="144.99646"
        x="15.345561" />
   </g>
   <g
@@ -181,11 +181,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        id="rect946" />
     <rect
        x="15.345561"
-       y="145.13"
+       y="144.99646"
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"

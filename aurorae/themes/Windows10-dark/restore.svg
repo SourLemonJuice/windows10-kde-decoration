@@ -63,7 +63,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1122"
+     inkscape:window-height="1124"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="3.7926636"
@@ -99,7 +99,7 @@
        id="rect1021" />
     <path
        inkscape:connector-curvature="0"
-       d="m 66.674696,143.79 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 V 143.79 Z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
+       d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
        style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path1023" />
   </g>
@@ -116,7 +116,7 @@
        id="rect1001" />
     <path
        inkscape:connector-curvature="0"
-       d="m 66.674696,143.79 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 V 143.79 Z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
+       d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
        style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path1003" />
   </g>
@@ -130,11 +130,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        id="rect981" />
     <path
        inkscape:connector-curvature="0"
-       d="m 66.674696,143.79 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 V 143.79 Z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
+       d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
        style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path983" />
   </g>
@@ -144,7 +144,7 @@
      style="opacity:0.35">
     <rect
        id="rect73"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        ry="3.7990001e-06"
        height="7.9375"
        width="12.170922"
@@ -153,7 +153,7 @@
     <path
        id="path75"
        style="opacity:1;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
-       d="m 66.674696,143.79 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 V 143.79 Z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
+       d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -166,11 +166,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0;stroke-width:0.442488;paint-order:stroke fill markers"
+       style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
        id="rect961" />
     <path
        inkscape:connector-curvature="0"
-       d="m 66.674696,143.79 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 V 143.79 Z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
+       d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
        style="opacity:1;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
        id="path963" />
   </g>
