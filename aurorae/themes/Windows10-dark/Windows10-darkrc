@@ -28,8 +28,8 @@ PaddingLeft=17
 PaddingRight=17
 ; i don't know why there is a tiny gap, if don't use TitleEdgeTop
 PaddingTop=10
-TitleBorderLeft=10
-TitleBorderRight=10
+TitleBorderLeft=0
+TitleBorderRight=0
 TitleEdgeBottom=0
 TitleEdgeBottomMaximized=0
 TitleEdgeLeft=0

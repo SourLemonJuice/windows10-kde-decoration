@@ -17,7 +17,8 @@ Windows 10 VM -> inactive -> active
 
 ## Install
 
-In the repository root, and run `./install.sh`. It will install this decoration for that user self.
+In the repository root, and run `./install.sh`. It will install this decoration for that user self.\
+I recommend not putting buttons on the left of the title. That way it'll be too close to the title.
 
 When it is stabled, I'll upload them to KDE Store.
 
