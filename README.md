@@ -31,6 +31,16 @@ Well...\
 I still need to say... At now, no one will use Qt to create a decoration, except Breeze made by KDE self.\
 Sorry, but I'm really not familiar with Qt.
 
+## Animation
+
+The animation may show what's behind it when it fades. But, if you want, 150ms is the value used by Windows10 buttons:
+
+```ini
+Animation=150
+```
+
+Add it to `[General]` section of `aurorae/themes/Windows10-dark/Windows10-darkrc`
+
 ## License
 
 All content published under **GNU General Public License v3 or later**.

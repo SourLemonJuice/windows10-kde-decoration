@@ -2,9 +2,6 @@
 ActiveTextColor=255,255,255,255
 InactiveTextColor=255,255,255,153
 
-; the animation may show what's behind it when it fades.
-; but, if you want 150ms is the value used by Windows10 buttons
-; Animation=150
 Animation=0
 Shadow=true
 TextShadowOffsetX=0
@@ -22,11 +19,9 @@ ButtonWidth=46
 ButtonMarginTop=0
 ButtonSpacing=0
 ExplicitButtonSpacer=0
-; 理解できないよ！
 PaddingBottom=17
 PaddingLeft=17
 PaddingRight=17
-; i don't know why there is a tiny gap, if don't use TitleEdgeTop
 PaddingTop=10
 TitleBorderLeft=0
 TitleBorderRight=0
