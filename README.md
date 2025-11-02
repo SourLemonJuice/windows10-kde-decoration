@@ -37,8 +37,6 @@ Animation=150
 
 Add it to `[General]` section of `aurorae/themes/Windows10-dark/Windows10-darkrc`
 
-> Enabled by default after v1.3.0
-
 ## Picked color data
 
 The color codes are picked from "Windows 10" or "Windows Server 2025(Win10 part, like notepad)".
@@ -47,6 +45,7 @@ The color codes are picked from "Windows 10" or "Windows Server 2025(Win10 part,
 - dark title body: `#000000`
 - light title text: `rgb(145,145,145)`
 - light title body: `#f3f3f3`
+- close button red: `#c42b1c`
 - window border in dark and light: `rgb(222,222,222)`, alpha 0.2/1\
   There's two set data, each RGB channel have same value:\
   background: 32, border: 66\

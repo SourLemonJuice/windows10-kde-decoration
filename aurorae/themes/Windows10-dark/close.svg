@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="close.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,12 +28,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1124"
+     inkscape:window-height="1080"
      id="namedview27"
      showgrid="false"
      inkscape:zoom="5.3636365"
-     inkscape:cx="8.855932"
-     inkscape:cy="46.796609"
+     inkscape:cx="3.7288135"
+     inkscape:cy="116.61864"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="fill:#8a0913;fill-opacity:1;stroke-width:1.10023"
+       style="fill:#b93427;fill-opacity:1;stroke-width:1.10023"
        id="rect1016" /><path
        d="m 48.301813,143.60739 -0.214013,0.21403 1.307351,1.30732 -1.307351,1.30738 0.214013,0.214 1.307353,-1.30734 1.307351,1.30734 0.214014,-0.214 -1.307351,-1.30738 1.307351,-1.30732 -0.214014,-0.21403 -1.307351,1.30732 z"
        id="path1-6"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.148878;enable-background:new" /></g><g
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.148878;enable-background:new" /></g><g
      id="hover-center"
      transform="matrix(3.7795,0,0,3.7795,-164.99785,-413.51423)"><rect
        x="43.655998"
@@ -71,7 +71,7 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="fill:#e81022;fill-opacity:1;stroke-width:1.10023"
+       style="fill:#c42b1c;fill-opacity:1;stroke-width:1.10023"
        id="rect996" /><path
        d="m 48.434108,143.60739 -0.214014,0.21401 1.307349,1.30736 -1.307349,1.30735 0.214014,0.21401 1.307351,-1.30734 1.307352,1.30734 0.214014,-0.21401 -1.307351,-1.30735 1.307351,-1.30736 -0.214014,-0.21401 -1.307352,1.30734 z"
        id="path1"
