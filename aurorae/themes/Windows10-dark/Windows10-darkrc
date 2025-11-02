@@ -1,6 +1,6 @@
 [General]
 ActiveTextColor=255,255,255,255
-InactiveTextColor=255,255,255,153
+InactiveTextColor=170,170,170,255
 
 Animation=150
 Shadow=false
