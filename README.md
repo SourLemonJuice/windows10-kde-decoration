@@ -35,7 +35,9 @@ The animation may show what's behind it when it fades. But, if you want, 150ms i
 Animation=150
 ```
 
-Add it to `[General]` section of `aurorae/themes/Windows10-dark/Windows10-darkrc`
+Add it to `[General]` section of `aurorae/themes/Windows10-dark/Windows10-darkrc`.
+
+> Enabled by default after v1.3.0
 
 ## Picked color data
 

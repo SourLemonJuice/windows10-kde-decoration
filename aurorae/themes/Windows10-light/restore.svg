@@ -54,7 +54,7 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#ffffff"
      borderopacity="1"
      objecttolerance="10"
@@ -63,12 +63,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1080"
+     inkscape:window-height="1079"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="3.7926636"
      inkscape:cx="-3.9550041"
-     inkscape:cy="99.270602"
+     inkscape:cy="99.138769"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -95,12 +95,12 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0.25;fill:#ffffff;stroke-width:1.10025;paint-order:stroke fill markers"
+       style="opacity:0.15;fill:#000000;stroke-width:1.10025;paint-order:stroke fill markers;fill-opacity:1"
        id="rect1021" />
     <path
        inkscape:connector-curvature="0"
        d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;paint-order:stroke fill markers"
        id="path1023" />
   </g>
   <g
@@ -112,12 +112,12 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0.1;fill:#ffffff;stroke-width:1.10025;paint-order:stroke fill markers"
+       style="opacity:0.1;fill:#000000;stroke-width:1.10025;paint-order:stroke fill markers;fill-opacity:1"
        id="rect1001" />
     <path
        inkscape:connector-curvature="0"
        d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;paint-order:stroke fill markers"
        id="path1003" />
   </g>
   <g
@@ -135,7 +135,7 @@
     <path
        inkscape:connector-curvature="0"
        d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;paint-order:stroke fill markers"
        id="path983" />
   </g>
   <g
@@ -152,7 +152,7 @@
        x="61.382999" />
     <path
        id="path75"
-       style="opacity:1;fill:#aaaaaa;fill-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#919191;fill-opacity:1;paint-order:stroke fill markers"
        d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
        inkscape:connector-curvature="0" />
   </g>
@@ -171,7 +171,7 @@
     <path
        inkscape:connector-curvature="0"
        d="m 66.674696,143.78581 v 0.52917 h -0.52917 v 2.1167 h 2.1167 v -0.52917 h 0.52917 v -2.1167 z m 0.26458,0.26459 h 1.5875 v 1.5875 h -0.26458 v -1.3229 h -1.3229 z m -0.52917,0.52916 h 1.5875 v 1.5875 h -1.5875 z"
-       style="opacity:1;fill:#aaaaaa;fill-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#919191;fill-opacity:1;paint-order:stroke fill markers"
        id="path963" />
   </g>
 </svg>

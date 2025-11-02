@@ -54,7 +54,7 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#ffffff"
      borderopacity="1"
      objecttolerance="10"
@@ -63,7 +63,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1080"
+     inkscape:window-height="1079"
      id="namedview22"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -71,7 +71,7 @@
      inkscape:snap-nodes="false"
      inkscape:zoom="2.6818182"
      inkscape:cx="13.050847"
-     inkscape:cy="81.101694"
+     inkscape:cy="80.915254"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -98,7 +98,7 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0.25;fill:#ffffff;stroke-width:1.10025;paint-order:stroke fill markers"
+       style="opacity:0.15;fill:#000000;stroke-width:1.10025;paint-order:stroke fill markers;fill-opacity:1"
        id="rect1006" />
     <rect
        x="15.345561"
@@ -106,7 +106,7 @@
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;paint-order:stroke fill markers"
        id="rect1008" />
   </g>
   <g
@@ -118,7 +118,7 @@
        width="12.170922"
        height="7.9375"
        ry="3.7990001e-06"
-       style="opacity:0.1;fill:#ffffff;stroke-width:1.10025;paint-order:stroke fill markers"
+       style="opacity:0.1;fill:#000000;stroke-width:1.10025;paint-order:stroke fill markers;fill-opacity:1"
        id="rect986" />
     <rect
        x="15.345561"
@@ -126,7 +126,7 @@
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;paint-order:stroke fill markers"
        id="rect988" />
   </g>
   <g
@@ -147,7 +147,7 @@
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
-       style="fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;paint-order:stroke fill markers"
        id="rect968" />
   </g>
   <g
@@ -164,7 +164,7 @@
        x="10.583" />
     <rect
        id="rect880"
-       style="opacity:1;fill:#aaaaaa;fill-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#919191;fill-opacity:1;paint-order:stroke fill markers"
        ry="3.1658001e-06"
        height="0.26458001"
        width="2.6458001"
@@ -189,7 +189,7 @@
        width="2.6458001"
        height="0.26458001"
        ry="3.1658001e-06"
-       style="opacity:1;fill:#aaaaaa;fill-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#919191;fill-opacity:1;paint-order:stroke fill markers"
        id="rect948" />
   </g>
 </svg>

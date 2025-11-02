@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="maximize.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -54,12 +54,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2048"
-     inkscape:window-height="1123"
+     inkscape:window-height="1080"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="22.627418"
-     inkscape:cy="86.04606"
+     inkscape:zoom="5.656854"
+     inkscape:cx="25.809399"
+     inkscape:cy="140.44909"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -132,7 +132,7 @@
   <g
      transform="matrix(3.7795,0,0,3.7795,-100.99966,-493.51423)"
      id="deactivated-center"
-     style="opacity:0.35">
+     style="opacity:1">
     <rect
        id="rect878"
        style="opacity:1;stroke-width:0.442488;paint-order:stroke fill markers;fill:none"
@@ -143,12 +143,12 @@
        x="26.723" />
     <path
        id="path880"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#aaaaaa;fill-opacity:1;paint-order:stroke fill markers"
        d="m 31.485561,143.80585 v 2.6458 h 2.6458 v -2.6458 z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="opacity:0.35"
+     style="opacity:1"
      id="inactive-center"
      transform="matrix(3.7795,0,0,3.7795,-100.99958,-533.51423)">
     <rect
@@ -162,7 +162,7 @@
     <path
        inkscape:connector-curvature="0"
        d="m 31.485561,143.80585 v 2.6458 h 2.6458 v -2.6458 z m 0.26458,0.26459 h 2.1167 v 2.1167 h -2.1167 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#aaaaaa;fill-opacity:1;paint-order:stroke fill markers"
        id="path953" />
   </g>
 </svg>

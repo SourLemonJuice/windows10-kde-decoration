@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg3642"
+   width="200"
+   height="100"
+   version="1"
+   sodipodi:docname="decoration.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2048"
+     inkscape:window-height="1080"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="11.313708"
+     inkscape:cx="48.083263"
+     inkscape:cy="33.720156"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3642"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#303030"
+     showguides="true"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid866"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3644">
+    <linearGradient
+       id="linearGradient26">
+      <stop
+         id="stop25"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop26"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="swatch16"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="swatch15"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1562">
+      <stop
+         id="stop1558"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop1560"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4271"
+       x1="83.599998"
+       x2="83.600006"
+       y1="-969.362"
+       y2="-952.36218"
+       gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1562" />
+    <linearGradient
+       id="linearGradient4259"
+       x1="83.600006"
+       x2="83.600006"
+       y1="-963.36218"
+       y2="-952.36218"
+       gradientTransform="matrix(0.71428571,0,0,1.5454545,6.28571,1471.8324)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1562" />
+    <linearGradient
+       id="linearGradient4452"
+       x1="-260"
+       x2="-260"
+       y1="281"
+       y2="298"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1562" />
+    <linearGradient
+       id="linearGradient4283"
+       x1="83.599998"
+       x2="83.600006"
+       y1="-969.362"
+       y2="-952.36218"
+       gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient26" />
+    <radialGradient
+       id="radialGradient4255"
+       cx="982.909"
+       cy="906.453"
+       r="8.5"
+       fx="982.909"
+       fy="906.453"
+       gradientTransform="matrix(2.0000159,1.8388577e-5,-1.8388254e-5,1.9999808,-1898.8171,-1795.9068)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1562" />
+  </defs>
+  <rect
+     id="decoration-center"
+     width="50"
+     height="50"
+     x="17"
+     y="17"
+     style="opacity:1;mix-blend-mode:normal;fill:#f3f3f3;fill-opacity:1" />
+  <g
+     id="decoration-right"
+     transform="matrix(0,1,-0.99907019,0,83.984193,0)">
+    <path
+       id="path-right-border"
+       d="M 17,15.999069 V 17 h 50 v -1.000931 z"
+       style="opacity:1;fill:#dedede;fill-opacity:0.50980395;stroke-width:1.00047" />
+  </g>
+  <g
+     id="decoration-left"
+     transform="rotate(-90,42,42)">
+    <path
+       id="path-left-border"
+       d="m 17,16 v 1 h 50 v -1 z"
+       style="opacity:1;fill:#dedede;fill-opacity:0.50980395" />
+  </g>
+  <g
+     id="decoration-bottom"
+     transform="rotate(180,42,42)">
+    <path
+       id="path-bottom-border"
+       d="m 17,16 v 1 h 50 v -1 z"
+       style="opacity:1;fill:#dedede;fill-opacity:0.50980395" />
+  </g>
+  <g
+     id="decoration-top">
+    <path
+       id="path-top-padding"
+       d="m 17,11 v 6 h 50 v -6 z"
+       style="display:inline;fill:#f3f3f3;fill-opacity:1" />
+    <path
+       id="path-top-border"
+       d="m 17,10 v 1 h 50 v -1 z"
+       style="opacity:1;fill:#dedede;fill-opacity:0.50980395" />
+  </g>
+  <g
+     id="decoration-bottomright"
+     transform="matrix(1,0,0,-1,0,84)">
+    <rect
+       style="fill:#dedede;fill-opacity:0.50980395;stroke-width:0.377964"
+       id="bottomright-border"
+       width="1"
+       height="1"
+       x="67"
+       y="-17"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     id="decoration-bottomleft"
+     transform="matrix(0,1,1,0,0,0)">
+    <rect
+       style="fill:#dedede;fill-opacity:0.50980395;stroke-width:0.377964"
+       id="rect4"
+       width="1"
+       height="1"
+       x="16"
+       y="67"
+       inkscape:label="bottomleft-border"
+       transform="matrix(0,1,1,0,0,0)" />
+  </g>
+  <g
+     id="decoration-topright"
+     transform="matrix(0,-1,-1.0625,0,85.000001,84)">
+    <rect
+       style="fill:#dedede;fill-opacity:0.50980395;stroke-width:0.993193"
+       id="topright-border"
+       width="0.94117647"
+       height="6.9999962"
+       x="-16.941177"
+       y="-74"
+       transform="matrix(0,-1,-1,0,0,0)" />
+  </g>
+  <g
+     id="decoration-topleft"
+     transform="matrix(-1,0,0,1,84,0)">
+    <rect
+       style="fill:#dedede;fill-opacity:0.50980395"
+       id="rect1"
+       width="1"
+       height="7"
+       x="16"
+       y="10"
+       transform="matrix(-1,0,0,1,84,0)"
+       inkscape:label="topleft-border" />
+  </g>
+</svg>

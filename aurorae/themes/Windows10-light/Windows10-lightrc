@@ -1,9 +1,8 @@
 [General]
-ActiveTextColor=255,255,255,255
-InactiveTextColor=170,170,170,255
+ActiveTextColor=0,0,0,255
+InactiveTextColor=145,145,145,255
 
 Animation=150
-Animation=0
 Shadow=false
 TextShadowOffsetX=0
 TextShadowOffsetY=0

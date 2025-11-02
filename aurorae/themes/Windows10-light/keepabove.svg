@@ -4,7 +4,7 @@
    height="200"
    version="1.1"
    id="svg64"
-   sodipodi:docname="keepbelow.svg"
+   sodipodi:docname="keepabove.svg"
    inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,7 +28,7 @@
   <defs
      id="defs68" />
   <sodipodi:namedview
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#ffffff"
      borderopacity="1"
      objecttolerance="10"
@@ -41,8 +41,8 @@
      id="namedview66"
      showgrid="true"
      inkscape:zoom="3.7083823"
-     inkscape:cx="34.516398"
-     inkscape:cy="104.08851"
+     inkscape:cx="23.730024"
+     inkscape:cy="96.268392"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,7 +64,7 @@
      id="title2">Vetro</title>
   <g
      id="pressed-center"
-     transform="rotate(180,-1.5,127.5)">
+     transform="translate(49,95)">
     <rect
        ry="0"
        y="65"
@@ -72,18 +72,18 @@
        height="30"
        width="46"
        id="rect75"
-       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <path
        id="path17"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.09109"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.09109"
        d="m -25.982421,77.25 -5.017579,5 0.492188,0.5 4.5,-4.5 4.5,4.5 L -21,82.25 Z"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="hover-center"
-     transform="rotate(180,-1.5,91.5)">
+     transform="translate(49,87)">
     <rect
-       style="display:inline;opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.77603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.77603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect65"
        width="46"
        height="30"
@@ -92,13 +92,13 @@
        ry="0" />
     <path
        id="path55"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.09109"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.09109"
        d="m -25.982421,45.25 -5.017579,5 0.492188,0.5 4.5,-4.5 4.5,4.5 L -21,50.25 Z"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="active-center"
-     transform="rotate(180,-1.5,55.5)">
+     transform="translate(49,79)">
     <rect
        ry="0"
        y="1"
@@ -109,13 +109,13 @@
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.77603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <path
        id="path1"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.09109"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.09109"
        d="m -25.982421,13.25 -5.017579,5 0.492188,0.5 4.5,-4.5 4.5,4.5 L -21,18.25 Z"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="deactivated-center"
-     transform="rotate(180,-1.5,83.5)"
+     transform="translate(49,-57)"
      style="opacity:1">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -127,13 +127,13 @@
        ry="0" />
     <path
        id="path18"
-       style="fill:#aaaaaa;fill-opacity:1;stroke-width:1.09109"
+       style="fill:#919191;fill-opacity:1;stroke-width:1.09109"
        d="m -25.982421,109.25 -5.017579,5 0.492188,0.5 4.5,-4.5 4.5,4.5 L -21,114.25 Z"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="inactive-center"
-     transform="rotate(180,-1.5,63.5)"
+     transform="translate(49,-97)"
      style="opacity:1">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -145,7 +145,7 @@
        ry="0" />
     <path
        id="path18-7"
-       style="fill:#aaaaaa;fill-opacity:1;stroke-width:1.09109"
+       style="fill:#919191;fill-opacity:1;stroke-width:1.09109"
        d="m -25.982421,109.25 -5.017579,5 0.492188,0.5 4.5,-4.5 4.5,4.5 L -21,114.25 Z"
        sodipodi:nodetypes="ccccccc" />
   </g>
