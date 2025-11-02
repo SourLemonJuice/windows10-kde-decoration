@@ -14,7 +14,10 @@ Windows 10 VM -> inactive -> active
 In the repository root, and run `./install.sh`. It will install this decoration for that user self.\
 I recommend not putting buttons on the left of the title. That way it'll be too close to the title.
 
-KDE Store: [Windows10 Dark](https://store.kde.org/p/2326527/)
+KDE Store:
+
+- [Windows 10 Dark Decoration](https://store.kde.org/p/2326527/)
+- [Windows 10 Light Decoration](https://www.pling.com/p/2327579/)
 
 Please set the border type to: No window borders
 
